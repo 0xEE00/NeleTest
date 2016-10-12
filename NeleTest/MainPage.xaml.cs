@@ -54,5 +54,9 @@ namespace NeleTest
             txtRezultat.Text = Convert.ToString(rezultat);
 
         }
+        private void TestMetoda()
+        {
+
+        }
     }
 }
